@@ -1,4 +1,4 @@
-# Modelo de Portifolio Web
+# Modelo de Portifólio Web
 
 ##Linguagens Utilizadas:
 <div style="display: inline_block">
